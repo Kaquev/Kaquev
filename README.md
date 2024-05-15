@@ -2,7 +2,7 @@
 # :sparkles: About Me:
 
 
--     Estudiante de Programación Instituto San Sebastián (Ciisa)
+- Estudiante de Programación Instituto Profesional San Sebastián (Ciisa)
 - 🚀 Egresada de *LABORATORIA* del bootcamp de Desarrollo Web de  :yellow_heart: 🥇
 - 🌱 Durante estos 6 meses he desarrollado proyectos utilizando principalmente css, html, javascript.
 - 💡 Actualmente estoy aprendiendo *ANGULAR*
